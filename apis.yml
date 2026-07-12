@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
 common:
+  - type: DomainSecurity
+    url: security/exchangeratesapi-io-domain-security.yml
   - type: Website
     url: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
   - type: PublicAPIsListing
