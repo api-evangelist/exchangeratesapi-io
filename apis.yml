@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/exchangeratesapi-io.png
 name: Exchangeratesapi.io
 description: "Exchange rates with currency conversion"
-url: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+url: https://exchangeratesapi.io
 specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
@@ -35,21 +35,21 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Currency Exchange
   - Public APIs
+  - Exchange Rates
 apis:
   - name: Exchangeratesapi.io
     description: "Exchange rates with currency conversion"
     humanURL: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
-    baseURL: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
     tags:
       - Currency Exchange
     properties:
       - type: Documentation
-        url: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+        url: https://exchangeratesapi.io
 common:
   - type: DomainSecurity
     url: security/exchangeratesapi-io-domain-security.yml
   - type: Website
-    url: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+    url: https://exchangeratesapi.io
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
 maintainers:
