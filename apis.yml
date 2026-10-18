@@ -33,6 +33,10 @@ x-category: "Currency Exchange"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Foreign Exchange
+  - Public APIs
+  - Exchange Rates
+tags_raw:
   - Currency Exchange
   - Public APIs
   - Exchange Rates
@@ -41,6 +45,8 @@ apis:
     description: "Exchange rates with currency conversion"
     humanURL: https://exchangeratesapi.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
     tags:
+      - Foreign Exchange
+    tags_raw:
       - Currency Exchange
     properties:
       - type: Documentation
