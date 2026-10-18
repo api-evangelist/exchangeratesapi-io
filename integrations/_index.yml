@@ -31,7 +31,7 @@
     - alpha
     in_cloud: true
     builder: unknown (community connector; contributor not in the record)
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
 - slug: exchangeratesapi-io-meltano
   label: Meltano
@@ -63,5 +63,5 @@
     - bronze
     - silver
     builder: 'community (Meltano Hub variant maintainers: airbyte, singer-io)'
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
